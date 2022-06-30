@@ -1,0 +1,20 @@
+{
+  "name": "noticia-api",
+  "version": "1.0.0",
+  "description": "API de Criticas Mind In Movie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Criticas",
+    "Cinema",
+    "Filmes"
+  ],
+  "author": "Rafael Gouveia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3"
+  }
+}
